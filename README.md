@@ -220,4 +220,4 @@ phpBB is released as a full **free version** with all features and updates inclu
 Take the first step towards building your online community today! Download phpBB free now and start creating your forum effortlessly.
 
 ---
-**Last updated:** 2026-10-12 16:18:29 UTC
+**Last updated:** 2026-10-12 23:21:39 UTC
